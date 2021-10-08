@@ -73,3 +73,11 @@ Project Setup to showcase git workflow
 1. Lead merges pull request <br>
 
    ![Img unable to render](images/9-lead-pull-request-merged.png)
+
+1. Lead performs production release and creates tag `v1.0.0` <br>
+
+   ![Img unable to render](images/10-lead-create-releae-tag.png)
+  
+1. Lead merges `production` branch to `main`.
+
+   ![Img unable to render](images/11-lead-merges-production-to-main.png)
