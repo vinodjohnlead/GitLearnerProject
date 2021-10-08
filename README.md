@@ -3,26 +3,21 @@ Project Setup to showcase git workflow
 
 ## Actors
 
-- Actor 1
+### Actor 1
   - Role: Manager
   - Name: Vinod Lead
   - Email: vinodjohn.lead@gmail.com
   - Gitlab Account: 
     - username: vinodjohnlead
-    - password: gitlearngit1234
-    - personal access token: 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
-- Actor 2
+### Actor 2
   - Role: collaborator
   - Name: Vinod Developer
-  - Email: vinoddeveloper@yahoo.com
-  - Gitlab Account: 
-    - personal access token:
 
-- Gitlab Repo
+### Gitlab Repo
   - Name: GitLearnerProject
   - Branches: Main and feature
 
-- Tasks
+### Tasks
   - Manager clone project locally
   - Update Readme file and add initial version to main branch
   - Commit and push to remote repo on Gitlab
