@@ -12,6 +12,9 @@ Project Setup to showcase git workflow
 ### Actor 2
   - Role: collaborator
   - Name: Vinod Developer
+  - Email: vinoddeveloper@yahoo.com
+  - Gitlab Account: 
+    - username: vinoddeveloper
 
 ### Gitlab Repo
   - Name: GitLearnerProject
